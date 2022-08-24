@@ -1,0 +1,130 @@
+*{
+	background: #eee;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 14px;
+}
+
+#container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+p{
+	margin: 0;
+	padding: 0;
+}
+
+#phone{
+
+}
+
+#area-login{
+	margin-left: 30px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 240px;
+
+
+}
+
+.caixa-branca{
+	width: 200px;
+	padding: 20px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background: white;
+	margin-bottom: 10px;
+
+}
+
+.instagram-logo {
+	width: 150px;
+	background: white;
+	padding: 15px;
+}
+
+#foto-perfil{
+	width: 75px;
+	border-radius: 100%;
+	margin-bottom: 15px;
+	background: white;
+}
+
+#profile-foto{
+	width: 75px;
+	background: white;
+}
+
+#instagram-login {
+	
+	display: block;
+	text-decoration: none;
+	background: lightblue;
+	color: white;
+	padding: 5px;
+	text-align: center;
+	width: 175px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+
+
+}
+
+#instagram-logout {
+	color: lightblue;
+	display: block;
+	text-decoration: none;
+	background: white;
+}
+
+.troca{
+	height: 80px;
+	width: 240px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background: white;
+	margin-bottom: 10px;
+
+}
+
+.not-account{
+	padding: 5px;
+	background: white;
+	color: #ccc;
+	text-align: center;
+
+}
+
+.link-blue{
+	color: lightblue;
+	background: white;
+}
+
+#area-apps{
+
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 240px;
+}
+
+#apps {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	margin-top: 10px;
+}
+
+.compra {
+	width: 100px;
+	
+	
+}
